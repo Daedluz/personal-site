@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.daedluz.com/</loc>
+    <loc>https://www.daedluz.com/</loc>
     <lastmod>2025-08-10T01:16:07-04:00</lastmod>
   </url><url>
-    <loc>http://www.daedluz.com/posts/</loc>
+    <loc>https://www.daedluz.com/posts/</loc>
     <lastmod>2025-08-10T01:16:07-04:00</lastmod>
   </url><url>
-    <loc>http://www.daedluz.com/posts/test-post/</loc>
+    <loc>https://www.daedluz.com/posts/test-post/</loc>
     <lastmod>2025-08-10T01:16:07-04:00</lastmod>
   </url><url>
-    <loc>http://www.daedluz.com/categories/</loc>
+    <loc>https://www.daedluz.com/categories/</loc>
   </url><url>
-    <loc>http://www.daedluz.com/tags/</loc>
+    <loc>https://www.daedluz.com/tags/</loc>
   </url>
 </urlset>
