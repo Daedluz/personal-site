@@ -1,8 +1,32 @@
 baseURL = 'http://www.daedluz.com'
 languageCode = 'en-us'
-title = 'MinChun Chen'
+title = 'Min Chun Chen'
 theme = 'papermod'
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params.assets]
+  favicon = "assets/favicon.ico"
+
+[params.homeInfoParams]
+  Title = "Michael (Min Chen Chen)"
+  Content = "Hello👋, welcome to my personal website! I am a computer science student interested in machine learning and data science research."
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/daedluz"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mchen12@umbc.edu"
+
+[[params.socialIcons]]
+  name = "linkedin" 
+  url = "www.linkedin.com/in/michael-chen-8343981bb"
+
+[[params.socialIcons]]
+  name = "other"
+  url = "https://sites.google.com/view/kekechen/researchtaic-lab"
+

@@ -4,8 +4,7 @@ draft = false
 title = 'Test Post'
 +++
 
-# Test
+# Test Post
 
 This is a test post to check the functionality of the Hugo site.
 
-張仲文好強
