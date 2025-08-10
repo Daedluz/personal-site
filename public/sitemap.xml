@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>http://www.daedluz.com/</loc>
     <lastmod>2025-08-10T01:16:07-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>http://www.daedluz.com/posts/</loc>
     <lastmod>2025-08-10T01:16:07-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://www.daedluz.com/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://www.daedluz.com/tags/</loc>
   </url>
 </urlset>

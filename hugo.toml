@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://www.daedluz.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'MinChun Chen'
 theme = 'papermod'
 
 [caches]
