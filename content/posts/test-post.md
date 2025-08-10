@@ -7,3 +7,5 @@ title = 'Test Post'
 # Test
 
 This is a test post to check the functionality of the Hugo site.
+
+張仲文好強
