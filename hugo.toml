@@ -20,11 +20,11 @@ theme = 'papermod'
 
 [[params.socialIcons]]
   name = "email"
-  url = "mchen12@umbc.edu"
+  url = "mailto:mchen12@umbc.edu"
 
 [[params.socialIcons]]
   name = "linkedin" 
-  url = "www.linkedin.com/in/michael-chen-8343981bb"
+  url = "https://www.linkedin.com/in/michael-chen-8343981bb"
 
 [[params.socialIcons]]
   name = "other"
