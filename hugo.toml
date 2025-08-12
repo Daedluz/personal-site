@@ -7,6 +7,9 @@ theme = 'papermod'
   [caches.images]
     dir = ':cacheDir/images'
 
+[params]
+  math = true
+
 [params.assets]
   favicon = "assets/favicon.ico"
 

@@ -1,6 +1,7 @@
 +++
 date = '2025-08-12T01:16:16-04:00'
 draft = false
+math = true
 title = 'Membership Inference Attack with Cumulative Topological Distance'
 +++
 
