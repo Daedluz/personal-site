@@ -6,15 +6,16 @@
     <description>Recent content on Min Chun Chen</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Aug 2025 01:16:07 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 01:16:16 -0400</lastBuildDate>
     <atom:link href="https://www.daedluz.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Post</title>
-      <link>https://www.daedluz.com/posts/test-post/</link>
-      <pubDate>Sun, 10 Aug 2025 01:16:07 -0400</pubDate>
-      <guid>https://www.daedluz.com/posts/test-post/</guid>
-      <description>&lt;h1 id=&#34;test-post&#34;&gt;Test Post&lt;/h1&gt;
-&lt;p&gt;This is a test post to check the functionality of the Hugo site.&lt;/p&gt;</description>
+      <title>Membership Inference Attack with Cumulative Topological Distance</title>
+      <link>https://www.daedluz.com/posts/membership-inference-attack-with-cumulative-topological-distance/</link>
+      <pubDate>Tue, 12 Aug 2025 01:16:16 -0400</pubDate>
+      <guid>https://www.daedluz.com/posts/membership-inference-attack-with-cumulative-topological-distance/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;As machine learning models become increasingly powerful and pervasive, concerns about privacy in their deployment have grown. One notable risk comes from &lt;strong&gt;membership inference attacks&lt;/strong&gt;, where an adversary attempts to determine whether a particular data point was used to train a given model. For example, in healthcare, a membership inference attack could reveal if someone participated in a clinical study, threatening patient confidentiality.
+This risk motivates my work in this post, where I document my recent experiment investigating the possibility in using cumulative topological distance in membership inference attacks.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
