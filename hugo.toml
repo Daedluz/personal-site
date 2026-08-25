@@ -7,15 +7,31 @@ theme = 'papermod'
   [caches.images]
     dir = ':cacheDir/images'
 
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "cv"
+  name = "CV"
+  url = "/cv/"
+  weight = 20
+
 [params]
   math = true
+
+[params.author]
+  name = "Michael (Min Chun Chen)"
+  email = "mchen12@umbc.edu"
 
 [params.assets]
   favicon = "assets/favicon.ico"
 
 [params.homeInfoParams]
   Title = "Michael (Min Chen Chen)"
-  Content = "Hello👋, welcome to my personal website! I am a computer science student interested in machine learning and data science research."
+  Content = "Hello👋, welcome to my personal website! I am a PhD student majoring in computer science student, my research interest lies in security of agentic AI systems: prompt- and skill-level backdoors, and the limits of static auditing for LLM agents. Related interests in machine learning privacy (membership inference) and machine unlearning. You can find more about my background in my [CV](/cv/)."
 
 [[params.socialIcons]]
   name = "github"
@@ -30,6 +46,10 @@ theme = 'papermod'
   url = "https://www.linkedin.com/in/michael-chen-8343981bb"
 
 [[params.socialIcons]]
-  name = "other"
+  name = "lab"
   url = "https://sites.google.com/view/kekechen/researchtaic-lab"
 
+[[params.socialIcons]]
+  name = "cv"
+  title = "CV"
+  url = "/cv/"
